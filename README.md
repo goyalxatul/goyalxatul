@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Atul Goyal</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center">Hi👋, I'm Atul</h1>
+<h3 align="center">A  passionate Full Stack developer </h3>
 
 - 📫 Contact me: **atulxgoyal@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/atulxgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atulxgoyal" height="30" width="40" /></a>
 <a href="https://instagram.com/atulxgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atulxgoyal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atulxgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atulxgoyal" height="30" width="40" /></a>
