@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul Goyal</h1>
 <h3 align="center">A passionate Full Stack Developer and DevOps Enthusiast </h3>
 
-- 👨‍💻 Portfolio: https://atul-seven-vercel.app/
+- 👨‍💻 Portfolio: https://atul-seven.vercel.app/
 
 - 🔭 I’m currently working on DevOps and Cloud 
 
