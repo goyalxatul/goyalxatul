@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋+I'm+Atul+Goyal;Full+Stack+Developer+%7C+DevOps+Engineer;Always+Learning+Always+Building+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋+I'm+Atul+Goyal;Full+Stack+Developer+%7C+DevOps+Engineer;Learning+ETL+%26+Analytics+Now+🚀">
 </p>
 
 ---
@@ -10,19 +10,15 @@
 <p align="center">
   🚀 Passionate <b>Full Stack Developer</b> & <b>DevOps Engineer</b>  
   <br/>
-  🔥 I love building scalable apps, automating everything, and deploying in the cloud.
-</p>
-
-<p align="center">
-  💡 Currently exploring <b>Kubernetes, CI/CD Pipelines, Ansible, Terraform</b>  
+  🔥 Currently learning <b>ETL, Data Pipelines & Analytics Tools</b>  
   <br/>
-  🧠 Continuously improving my <b>AWS & Docker</b> skills  
+  💡 Exploring <b>Kubernetes, Terraform, CI/CD, and Cloud Architecture</b>  
   <br/>
-  🎯 Goal: Become a <b>Cloud Architect & DevOps Lead</b>  
+  📊 Building skills in <b>Data Engineering</b> alongside DevOps  
   <br/>
   📬 Reach me at: <b>atulxgoyal@gmail.com</b>  
   <br/>
-  🌐 Portfolio: <a href="https://atul-seven.vercel.app/" target="_blank"><b>atul-seven.vercel.app</b></a>  
+  🌐 Portfolio: <a href="https://atul-seven.vercel.app/" target="_blank"><b>atul-seven.vercel.app</b></a>
 </p>
 
 ---
@@ -44,15 +40,26 @@
 <h3 align="center">🌐 Frontend & Backend Development</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,figma" height="50"></p>
 
+<h3 align="center">🛢 ETL & Analytics (Currently Learning)</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50">
+  <img src="https://skillicons.dev/icons?i=python" height="50">
+  <img src="https://skillicons.dev/icons?i=airflow" height="50">
+  <img src="https://skillicons.dev/icons?i=databricks" height="50">
+  <img src="https://skillicons.dev/icons?i=tableau" height="50">
+</p>
+
 <h3 align="center">⚙️ DevOps, Cloud & Automation</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,aws,git,github,linux,bash,jenkins,bitbucket" height="50"></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,aws,git,github,linux,bash,jenkins,bitbucket" height="50">
+</p>
 
 <h3 align="center">🗄️ Databases</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50"></p>
 
 ---
 
-# 📊 **GitHub Performance**
+# 📊 GitHub Performance
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=goyalxatul&show_icons=true&theme=tokyonight">
@@ -73,6 +80,6 @@
 ---
 
 <h2 align="center">⚡ Fun Fact</h2>
-<p align="center"><i>"DevOps is not a role… it's a mindset of automating everything!"</i></p>
+<p align="center"><i>"DevOps + Data Engineering = Superpower for modern engineers!"</i></p>
 
 ---
