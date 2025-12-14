@@ -10,7 +10,7 @@
 <p align="center">
   🚀 Passionate <b>Full Stack Developer</b> & <b>DevOps Engineer</b>  
   <br/>
-  🔥 Currently learning <b>ETL, Data Pipelines & Analytics Tools</b>  
+  🔥 Currently learning <b>Big Data, ETL, Data Pipelines & Analytics Tools</b>  
   <br/>
   💡 Exploring <b>Kubernetes, Terraform, CI/CD, and Cloud Architecture</b>  
   <br/>
